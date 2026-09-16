@@ -165,7 +165,13 @@ MySQL
 
 ## 📷 Screenshots
 
-项目界面截图将在后续补充。
+### 登录页面
+
+![Login Page](screenshots/login.png)
+
+### ATM 操作界面
+
+![ATM Dashboard](screenshots/dashboard.png)
 
 ## 📌 Project Status
 
